@@ -1,0 +1,54 @@
+
+
+#perent-div{
+    background-color: rgb(233, 175, 133);
+    
+}
+#hadding-p{
+    
+   h1{
+       text-align: center;
+       font-family: sans-serif;
+       text-decoration: underline;
+       text-decoration-style: wavy;
+   } 
+    
+    
+   
+}
+
+
+
+#peragraph-w{
+    p{
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+       
+    }
+}
+
+#test{
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+    line-height:100px;
+    text-align: center;
+
+}
+
+#test-2{
+    width: 100px;
+    height: 100px;
+    background-color:aqua;
+    text-decoration: line-through;
+    line-height:100px;
+    text-align: center;
+
+}
+
+#test-3{
+    width: 150px;
+    height: 50px;
+    background-color: green;
+    line-height: 50px;
+    text-align: center;
+}
